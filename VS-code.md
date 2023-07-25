@@ -6,7 +6,7 @@
 
 
 
-![Untitled]([https://cyberhoot.com/wp-content/uploads/2020/12/AirPlay-AirDrop-Icons-1024x576.png](https://i.imgur.com/9EdYe71.png)
+![Untitled](https://i.imgur.com/9EdYe71.png)
 
 ## 1-1. Ctrl-K-T 換主題顏色
 
