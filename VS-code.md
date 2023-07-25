@@ -1,4 +1,4 @@
-# [安裝VS Code(Notion筆記)](https://fir-apartment-286.notion.site/Day5-ed8c8a8cf87c4ac68a5526c5e90b2dae)
+# [(Notion筆記)安裝VS Code](https://fir-apartment-286.notion.site/Day5-ed8c8a8cf87c4ac68a5526c5e90b2dae)
 
 # 1. 安裝VS Code
 
