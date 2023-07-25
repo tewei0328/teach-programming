@@ -4,6 +4,8 @@
 
 [Visual Studio Code ( VS Code) 安裝教學(使用Python) - 免費資源社群](https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/)
 
+[參考網址](https://fir-apartment-286.notion.site/Day5-ed8c8a8cf87c4ac68a5526c5e90b2dae)
+
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39d51816-cad9-473f-aca8-11be105e55a2/Untitled.png)
 
 ## 1-1. Ctrl-K-T 換主題顏色
