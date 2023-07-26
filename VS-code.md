@@ -10,7 +10,7 @@
 
 ## 1-1. Ctrl-K-T 換主題顏色
 
-![Untitled](paper/1.png)
+![Untitled](paper/5.png)
 
 ## 1-2. 加上基本插件(外掛)
 
