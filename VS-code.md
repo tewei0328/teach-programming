@@ -10,7 +10,7 @@
 
 ## 1-1. Ctrl-K-T 換主題顏色
 
-![Untitled](paper/5.png)
+![Untitled](img/5.png)
 
 ## 1-2. 加上基本插件(外掛)
 
@@ -18,11 +18,11 @@
 
 [ctrl]+v : 貼上截圖
 
-![Untitled](paper/8.png)
+![Untitled](img/8.png)
 
 ### 使用中文插件
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddbc5600-9eed-4596-b1ac-fa17058e78b4/Untitled.png)
+![Untitled](img/9.png)
 
 ## 1-3. 試寫python程式
 
