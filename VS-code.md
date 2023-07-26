@@ -10,7 +10,7 @@
 
 ## 1-1. Ctrl-K-T 換主題顏色
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/264cfeed-8fd4-4b65-8be8-a92bd485e704/Untitled.png)
+![Untitled](paper/1.png)
 
 ## 1-2. 加上基本插件(外掛)
 
