@@ -18,7 +18,7 @@
 
 [ctrl]+v : 貼上截圖
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/811ad6da-912d-457a-bd17-d1db32794dc2/Untitled.png)
+![Untitled](paper/8.png)
 
 ### 使用中文插件
 
