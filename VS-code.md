@@ -6,7 +6,7 @@
 
 
 
-![Untitled](img\1.png)
+![Untitled](img/1.png)
 
 ## 1-1. Ctrl-K-T 換主題顏色
 
