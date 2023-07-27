@@ -6,11 +6,11 @@
 
 
 
-![Untitled](https://i.imgur.com/9EdYe71.png)
+![Untitled](img\1.png)
 
 ## 1-1. Ctrl-K-T 換主題顏色
 
-![Untitled](img/5.png)
+![Untitled](img/2.png)
 
 ## 1-2. 加上基本插件(外掛)
 
